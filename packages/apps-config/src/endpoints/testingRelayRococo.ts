@@ -112,6 +112,14 @@ export const testParasRococo: EndpointOption[] = [
     }
   },
   {
+    info: 'rococoDiora',
+    paraId: 4202,
+    text: 'Diora',
+    providers: {
+      'DioraDAO': 'wss://dev.diora.network'
+    }
+  },
+  {
     info: 'rococoDolphin',
     paraId: 2084,
     text: 'Dolphin',
